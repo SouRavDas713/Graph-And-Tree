@@ -3,7 +3,7 @@ using namespace std ;
 //V*V matrix
 
 const int N = 1e3+10 ;
-int graph[N][N] ; 
+int graph[N][N] ;
 // O(n^2)
 // if n=10^6 Then it impossible to store the matrix
 
