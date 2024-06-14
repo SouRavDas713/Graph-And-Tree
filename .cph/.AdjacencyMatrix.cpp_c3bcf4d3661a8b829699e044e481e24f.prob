@@ -1,0 +1,1 @@
+{"name":"Local: AdjacencyMatrix","url":"g:\\Graph And Tree\\AdjacencyMatrix.cpp","tests":[{"id":1718338834213,"input":"4 3\n3 2\n3 4\n1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Graph And Tree\\AdjacencyMatrix.cpp","group":"local","local":true}
