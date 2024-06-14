@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std ;
 //V*V matrix
-
+//Use -> i,j connected or not ??? what is weight ?? O(1)
 const int N = 1e3+10 ;
 int graph[N][N] ;
 // O(n^2)

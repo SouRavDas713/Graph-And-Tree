@@ -4,7 +4,7 @@ using namespace std ;
 
 const int N = 1e3+10 ;
 int graph1[N][N] ;
-// O(V+E)
+// O(V+E) 
 // 
 
 vector<int> graph2[N] ; 
